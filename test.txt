@@ -6,7 +6,6 @@ const App = () => {
   return class {
     constructor() {
       this.name = 'alex';
-      this.age = 20;
     }
   }
 }
